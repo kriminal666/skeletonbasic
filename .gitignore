@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *~
 application/config/database.php
 application/config/auth_ldap.php
@@ -17,3 +18,11 @@ application/third_party/grocery-crud/
 application/third_party/image-crud/
 skeleton.sql
 .htaccess
+=======
+*/config/development
+*/logs/log-*.php
+*/logs/!index.html
+*/cache/*
+*/cache/!index.html
+*/cache/!.htaccess
+>>>>>>> 787c02ba77eadc80ae9b43e309bd3e18cafe2bec
